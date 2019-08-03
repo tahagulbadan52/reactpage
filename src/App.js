@@ -13,7 +13,7 @@ export const AppContext = createContext();
 
 const App = () => {
 
-const [state, setState] = useState({ signUpForm: false });
+const [state, setState] = useState({ signUpForm: false});
 
 
 
