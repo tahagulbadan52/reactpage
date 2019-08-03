@@ -24,7 +24,7 @@ const SignUpWindow = () => {
         }
         fetch(
             // URL
-            'http://localhost:5000/auth/register', 
+            `${process.env.REACT_APP_API_URL}auth/register`, 
             // Data
             {
                 method: 'POST',
