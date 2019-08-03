@@ -1,0 +1,232 @@
+
+.Home {
+  text-align: center;
+}
+
+.NavBar .nav-links{
+  display: inline-flex;
+  width: 100%;
+}
+
+.NavBar .logo {
+  margin-right: auto;
+  color: rgb(7, 31, 248);
+  
+}
+
+.NavBar .logo i {
+  font-size:  45px;
+}
+
+.NavBar .logo:hover {
+  color: rgb(69, 69, 196);
+}
+
+.NavBar .link {
+  margin-left: 28px;
+}
+.Testimonials {
+  max-width: 320px;
+}
+
+.Testimonials p {
+  max-width: 192px;
+}
+.Testimonials h3.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin:  16px 0 8px;
+
+}
+.Testimonials img {
+  position: relative;
+  border-radius: 100%;
+  box-shadow: 0 5px 5px 0 #adb5bd;;
+  width: 155px;
+  height: 155px;
+  
+}
+
+.InfoGroup {
+  background: #f8f9fa;
+  padding: 70px 0 70px 0;
+}
+
+.InfoGroup.testimonials {
+  background: rgba(248, 249, 250, 1);
+}
+
+.InfoGroup h2 {
+  margin: 0 0 45px;
+}
+
+.InfoGroup .container{
+  display: inline-flex;
+  justify-content: space-between;
+}
+
+.Info {
+  max-width: 320px;
+}
+.Info i{
+  font-size: 4.5rem; 
+  color: #007bff;
+}
+
+.JigSaw .showcase-text {
+  padding: 70px;
+}
+.RegisterLogin {
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.RegisterLogin button {
+  margin-right: 5px;
+}
+
+.RegisterLogin > .container {
+  width: 400px;
+  background: white;
+  padding: 10px;
+  margin: 8px auto;
+  border-radius: 20px;
+  text-align: left;
+}
+
+.RegisterLogin > .container input {
+  margin:0 0 5px;
+}
+
+.main-heading {
+  font-size: 5rem;
+  font-weight: 700;
+  font-style: 'Lato';
+  padding-top: 125px;
+}
+
+
+.SignUp h1 {
+  font-size: 4rem;
+}
+.showcase-img {
+  min-height: 30rem;
+  background-size: cover;
+}
+a:link {
+  color: black;
+  font-size: 1.5rem;
+
+}
+a:visited {
+  color:black;
+}
+
+
+a:hover {
+  color: rgb(95, 93, 93);
+  text-decoration: none;
+}
+
+
+a:active {
+  color:black;;
+}
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+.SignUp {
+  margin-bottom: 0;
+  background-size: 100% 100%;
+  padding: 120px 0 120px 0;
+  
+}
+.Footer {
+  padding-top: 4rem;
+  padding-bottom: 4rem;  
+}
+.jumbotron {
+  position: relative;
+  height: 500px;
+  background-repeat:  no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
+}
+.SignUpForm .container {
+  width: 400px;
+  background: white;
+  padding: 20px;
+  margin: 40px auto;
+  border-radius: 20px;
+  text-align: left;
+}
+.SignUpForm {
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.SignUpForm .container input {
+  margin: 0 0 16px;
+}
+.window-button {
+  margin-right: 5px;
+}
+.SignUpWindow .container .btn-register {
+  margin-right: 5px;
+}
+.LoginWindow .container button {
+  margin-right: 5px;
+}
+
+.Feeds .media {
+  background: #e8e8e8;
+  border-radius: 15px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+/*  contact page */
+.contact-logo {
+  color: rgb(7, 31, 248);
+  text-decoration: none;
+  font-size:  55px;
+  padding: 0 0 10px 0;
+
+}
+.container .content-page {
+  margin: 50px;
+}
+.Testimonials img {
+  position: relative;
+  border-radius: 100%;
+  box-shadow: 0 5px 5px 0 #adb5bd;;
+  width: 155px;
+  height: 155px;
+  
+}
